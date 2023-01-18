@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&locale=en" alt="chandanmallick19" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
-username=chandanmallick19&langs_count=8&hide=html,css&layout=compact)] (https://github.com/aang13/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&" alt="chandanmallick19" /></p>
