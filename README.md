@@ -4,7 +4,8 @@
     <meta name="google-site-verification" content="OuBGxzE5gmYRmzOSpJdUrOniJwsPB3qKDn-6BAclyFw" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -33,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&locale=en" alt="chandanmallick19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&" alt="chandanmallick19" /></p>
+</body>
+</html>
