@@ -1,29 +1,39 @@
-<!-- ![logo](https://github.com/chandanmallick19/chandanmallick19/blob/main/header.png) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chandan19 Github</title>
+</head>
+<body>
+    <!-- ![logo](https://github.com/chandanmallick19/chandanmallick19/blob/main/header.png) -->
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-## Glad to see you here ! &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
+<h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
 
-Second-year CSE student, future software developer. My passion for coding brought me to Institute of Technical Education & Research at SOA University, where I am pursuing my B.Tech in Computer Science & Engineering. Last Semester I completed my foundation program, which covers Java, DSA and Python.
+<p>Second-year CSE student, future software developer. My passion for coding brought me to Institute of Technical Education & Research at SOA University, where I am pursuing my B.Tech in Computer Science & Engineering. Last Semester I completed my foundation program, which covers Java, DSA and Python.
 
-This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bootstrap, JS, Java and Database. I continued to build my skills on websites. Next year, I hope to join complete a internship that will provide a real-life experience and important technological skills.
+This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bootstrap, JS, Java and Database. I continued to build my skills on websites. Next year, I hope to join complete a internship that will provide a real-life experience and important technological skills.</p>
 
 <p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19" /></a> </p>
 
-### Talking about Personal Stuffs:
-- 👨‍🎓 I'm a **Computer Science & Engineering Student**
+<h3> Talking about Personal Stuffs:</h3>
+<ul>
+<li> 👨‍🎓 I'm a <b>Computer Science & Engineering Student</b></li>
 
-- 🌱 I’m currently learning **Java**
+<li> 🌱 I’m currently learning <b>Java</b></li>
 
-- 💬 Ask me about **Java, HTML, CSS, JS, jQuery, Bootstrap**
+<li> 💬 Ask me about <b>Java, HTML, CSS, JS, jQuery, Bootstrap</b></li>
 
-- 📫 How to reach me **chandansoumya28@gmail.com**
+<li> 📫 How to reach me <b>chandansoumya28@gmail.com</b></li>
 
-- 💬 Ask me about anything, I am happy to help
+<li> 💬 Ask me about anything, I am happy to help</li>
 
-- 💪 This is where I write, code and solve problems:
-
+<li> 💪 This is where I write, code and solve problems:</li>
+</ul>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/chandanmallick19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chandanmallick19" height="30" width="40" /></a><a href="https://codepen.io/chandan19" target="_blank"><img align="center" src="https://github.com/chandanmallick19/chandanmallick19/blob/main/codepan.jpg" alt="https://codepen.io/chandan19" height="30" width="30" /></a>
 
@@ -32,9 +42,9 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 <a href="https://linkedin.com/in/chandanmallick19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanmallick19" height="30" width="40" /></a>
 </p>
 
-## 🛠️ My favorite tools
+<h2> 🛠️ My favorite tools</h2>
 
-### 👨‍💻 Programming languages
+<h3> 👨‍💻 Programming languages</h3>
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -47,7 +57,7 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+<h3> 🧰 Frameworks and libraries</h3>
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -55,14 +65,14 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+<h3> 🗄️ Databases and cloud hosting</h3>
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+<h3> 💻 Software and tools</h3>
 
 <p>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -73,7 +83,7 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Stats
+<h2> 📊 Stats</h2>
 <details>
   <summary>&nbsp;&nbsp;<b>🔥 GitHub Trophy</summary>
   <br/>
@@ -89,3 +99,6 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" /></p>
     </details>
+
+</body>
+</html>
