@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <!-- ![logo](https://github.com/chandanmallick19/chandanmallick19/blob/main/header.png) -->
+    <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=chandanmallick19&linkedin=chandanmallick19&twitter=ChandanM19" />
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -36,50 +36,145 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/chandanmallick19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chandanmallick19" height="30" width="40" /></a><a href="https://codepen.io/chandan19" target="_blank"><img align="center" src="https://github.com/chandanmallick19/chandanmallick19/blob/main/codepan.jpg" alt="https://codepen.io/chandan19" height="30" width="30" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/chandan_m19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandan_m19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandanmallick19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanmallick19" height="30" width="40" /></a>
+---
+
+<h2 align="center"> 👨‍💻 My Programming Languages</h2>
+<p align="center">
+<a href="https://www.w3schools.com/html/default.asp">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="https://www.w3schools.com/css/default.asp">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>   
+<a href="https://reactjs.org/">
+    <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
+</a>
+<a href="https://docs.oracle.com/en/java/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
+</a>
+    <a href="https://docs.oracle.com/en/java/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/languages/python.svg">
 </p>
 
-<h2> 🛠️ My favorite tools</h2>
+---
 
-<h3> 👨‍💻 Programming languages</h3>
-<p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<h2 align="center">My Tools :gear: </h2>
+<p align="center">
+    
+<a href="https://developer.android.com/studio">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android studio" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://www.eclipse.org/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://git-scm.com">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://github.com/chandanmallick19">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://www.jetbrains.com/idea/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+    
+</p>
+    
+---
+<h2 align="center">My Coding Platforms ✒️</h2>
+<p align="center">
+    
+<a href="https://aws.amazon.com/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="amazon web services" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://aws.amazon.com/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://www.hackerrank.com/chandansoumya28">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://leetcode.com/chandanmallick19/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="chandansoumya28@outlook.com">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:4px">
+</a>
+    
 </p>
 
-<h3> 🧰 Frameworks and libraries</h3>
+---
+    
+<h2 align="center">My Socials 🤝</h2>
+    <p align="center">
+    
+<a href="chandansoumya28@outlook.com">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/social/email_me.svg" alt="email ID" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="chandansoumy28@gmail.com">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://www.linkedin.com/in/chandanmallick19/">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="chandansoumya28@soau.onmicrosoft.com">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:4px">
+</a>
+    
+<a href="https://twitter.com/Chandan_M19">
+    <img src="https://github.com/klaasnicolaas/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+</a>
 
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
-<h3> 🗄️ Databases and cloud hosting</h3>
+<h2 align="center"> 💻 Software and tools</h2>
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-</p>
-
-<h3> 💻 Software and tools</h3>
-
-<p>
+    
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    
+    <a href="#">
+        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+    </a>
+    
+    <a href="#">
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    </a>
+    
+    <a href="#">
+        <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+    </a>
+    
+    <a href="#">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    </a>
+    
+    <a href="#">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </a>
 </p>
 
 <h2> 📊 Stats</h2>
