@@ -31,11 +31,6 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 
 <li> 💬 Ask me about anything, I am happy to help</li>
 
-<li> 💪 This is where I write, code and solve problems:</li>
-</ul>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/chandanmallick19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chandanmallick19" height="30" width="40" /></a><a href="https://codepen.io/chandan19" target="_blank"><img align="center" src="https://github.com/chandanmallick19/chandanmallick19/blob/main/codepan.jpg" alt="https://codepen.io/chandan19" height="30" width="30" /></a>
-
 ---
 
 <h2 align="center"> 👨‍💻 My Programming Languages</h2>
@@ -149,49 +144,28 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 </a>
 
 </p>
-
-<h2 align="center"> 💻 Software and tools</h2>
-
-<p>
     
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+---
     
-    <a href="#">
-        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
-    </a>
+<h2 align="center">📊 Stats</h2>
     
-    <a href="#">
-        <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    </a>
-    
-    <a href="#">
-        <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
-    </a>
-    
-    <a href="#">
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-    </a>
-    
-    <a href="#">
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    </a>
-</p>
-
-<h2> 📊 Stats</h2>
 <details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Trophy</summary>
+  <summary align="center">&nbsp;&nbsp;<b>🔥 GitHub Trophy</summary>
   <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanmallick19" alt="chandanmallick19" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanmallick19" alt="chandanmallick19" /></a> </p>
     </details>
 
 <details>
-  <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
+  <summary align="center">&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmallick19&show_icons=true&theme=dark&title_color=00e8ff&text_color=ffffff&locale=en&layout=compact" alt="chandanmallick19" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmallick19&show_icons=true&theme=dark&title_color=00e8ff&text_color=ffffff&locale=en&layout=compact" alt="chandanmallick19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&theme=dark&title_color=00d5ff&text_color=ffffff&locale=en" alt="chandanmallick19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" /></p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&theme=dark&title_color=00d5ff&text_color=ffffff&locale=en"               alt="chandanmallick19" width="400"/>
+<p align="right">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" width="400"/>
+</p>
+      
     </details>
 
 </body>
