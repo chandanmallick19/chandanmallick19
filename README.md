@@ -13,7 +13,6 @@
 
 <h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <p>Second-year CSE student, future software developer. My passion for coding brought me to Institute of Technical Education & Research at SOA University, where I am pursuing my B.Tech in Computer Science & Engineering. Last Semester I completed my foundation program, which covers Java, DSA and Python.
 
 This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bootstrap, JS, Java and Database. I continued to build my skills on websites. Next year, I hope to join complete a internship that will provide a real-life experience and important technological skills.</p>
@@ -151,6 +150,7 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 <h2 align="center">📊 Stats</h2>
     
 <details>
+    
   <summary align="center">&nbsp;&nbsp;<b>🔥 GitHub Trophy</summary>
   <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanmallick19" alt="chandanmallick19" /></a> </p>
@@ -168,6 +168,6 @@ This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bo
 </p>
       
     </details>
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </body>
 </html>
