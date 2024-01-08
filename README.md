@@ -11,6 +11,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
 
 <p>Second-year CSE student, future software developer. My passion for coding brought me to Institute of Technical Education & Research at SOA University, where I am pursuing my B.Tech in Computer Science & Engineering. Last Semester I completed my foundation program, which covers Java, DSA and Python.
