@@ -8,14 +8,14 @@
 <body>
     <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=chandanmallick19&linkedin=chandanmallick19&twitter=ChandanM19" />
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mallick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
 
-<p>Second-year CSE student, future software developer. My passion for coding brought me to Institute of Technical Education & Research at SOA University, where I am pursuing my B.Tech in Computer Science & Engineering. Last Semester I completed my foundation program, which covers Java, DSA and Python.
+<p>Pursuing a Bachelor of Technology degree in Computer Science at Siksha 'O' Anusandhan University, I am a coding and cloud enthusiast who loves to learn and apply cutting-edge technologies to solve real-world problems. I have developed core competencies in front-end development, cloud computing, communication, teamwork, and leadership through various projects, internships, and extracurricular activities.
 
-This year I have mastered Full Stack Web development using HTML, CSS, jQuery, Bootstrap, JS, Java and Database. I continued to build my skills on websites. Next year, I hope to join complete a internship that will provide a real-life experience and important technological skills.</p>
+Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft and a Software Test Automation Intern at Katalon. As a Beta MLSA, I engage with and empower fellow students to enhance their digital skills and promote technology literacy within the Microsoft ecosystem. As a Software Test Intern, I work with Katalon Studio, a popular software testing tool for web and mobile applications, and contribute to its quality assurance and improvement. I am also a mentee at Amazon Web Services (AWS) and a campus ambassador at Zuno by foundit and MyGov India, where I collaborate with diverse talents, foster innovation, and create impactful learning experiences. I am passionate about coding, web development, cloud computing, and social impact, and I aspire to use my skills and knowledge to make a positive difference in the world.</p>
 
 <p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19" /></a> </p>
 
