@@ -19,7 +19,7 @@ Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft an
 
 <p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19"></a> </p>
 
-<p align="left"> <a href="https://tryhackme.com/p/chandan19" target="blank"><<img src="https://tryhackme-badges.s3.amazonaws.com/chandan19.png" alt="TryHackMe"></a></p>
+<p align="left"> <a href="https://tryhackme.com/p/chandan19" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/chandan19.png" alt="TryHackMe"></a></p>
 
 <h3> Talking about Personal Stuffs:</h3>
 <ul>
