@@ -167,6 +167,6 @@ As a Beta Microsoft Learn Student Ambassador, I'm committed to empowering learne
 </p>      
 </details>
 
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+      ![Snake animation](https://raw.githubusercontent.com/chandanmallick19/chandanmallick19/output/github-contribution-grid-snake-dark.svg)
 </body>
 </html>
