@@ -13,9 +13,9 @@
 
 <h2>Glad to see you here !</h2> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=chandanmallick19&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmallick19" />
 
-<p>Pursuing a Bachelor of Technology degree in Computer Science at Siksha 'O' Anusandhan University, I am a coding and cloud enthusiast who loves to learn and apply cutting-edge technologies to solve real-world problems. I have developed core competencies in front-end development, cloud computing, communication, teamwork, and leadership through various projects, internships, and extracurricular activities.
+<p>At the forefront of cloud innovation, my role as an AWS Developer at Persistent Systems marries my Bachelor of Technology in Computer Science with my affinity for cutting-edge cloud services. My journey also includes shaping cyber defense at Future Crime Research Foundation, where my cryptography skills are vital in tackling digital crime.
 
-Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft and a Software Test Automation Intern at Katalon. As a Beta MLSA, I engage with and empower fellow students to enhance their digital skills and promote technology literacy within the Microsoft ecosystem. As a Software Test Intern, I work with Katalon Studio, a popular software testing tool for web and mobile applications, and contribute to its quality assurance and improvement. I am also a mentee at Amazon Web Services (AWS) and a campus ambassador at Zuno by foundit and MyGov India, where I collaborate with diverse talents, foster innovation, and create impactful learning experiences. I am passionate about coding, web development, cloud computing, and social impact, and I aspire to use my skills and knowledge to make a positive difference in the world.</p>
+As a Beta Microsoft Learn Student Ambassador, I'm committed to empowering learners and fostering technology literacy. My contributions to the Microsoft ecosystem and collaboration with AWS Academy underline my dedication to leveraging technology for educational impact and nurturing a community of skilled professionals.</p>
 
 <p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19"></a> </p>
 
