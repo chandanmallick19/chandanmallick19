@@ -167,8 +167,6 @@ Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft an
 </p>      
 </details>
 
-<p align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </body>
 </html>
