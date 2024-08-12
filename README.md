@@ -167,9 +167,9 @@ Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft an
     <img src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&theme=dark&title_color=00d5ff&text_color=ffffff&locale=en"               alt="chandanmallick19" width="400"/>
 <p align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" width="400"/>
-</p>
-      
-    </details>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>      
+</details>
+
+<p align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</p>
 </body>
 </html>
