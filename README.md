@@ -17,7 +17,7 @@
 
 Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft and a Software Test Automation Intern at Katalon. As a Beta MLSA, I engage with and empower fellow students to enhance their digital skills and promote technology literacy within the Microsoft ecosystem. As a Software Test Intern, I work with Katalon Studio, a popular software testing tool for web and mobile applications, and contribute to its quality assurance and improvement. I am also a mentee at Amazon Web Services (AWS) and a campus ambassador at Zuno by foundit and MyGov India, where I collaborate with diverse talents, foster innovation, and create impactful learning experiences. I am passionate about coding, web development, cloud computing, and social impact, and I aspire to use my skills and knowledge to make a positive difference in the world.</p>
 
-<p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19" /> <img src="https://tryhackme-badges.s3.amazonaws.com/chandan19.png" alt="TryHackMe"> </a> </p>
+<p align="left"> <a href="https://twitter.com/chandan_m19" target="blank"><img src="https://img.shields.io/twitter/follow/chandan_m19?logo=twitter&style=for-the-badge" alt="chandan_m19" /> </img></a> </p>
 
 <h3> Talking about Personal Stuffs:</h3>
 <ul>
