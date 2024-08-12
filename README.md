@@ -163,7 +163,7 @@ Currently, I am a Beta Microsoft Learn Student Ambassador (MLSA) at Microsoft an
   <br/>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmallick19&show_icons=true&theme=dark&title_color=00e8ff&text_color=ffffff&locale=en&layout=compact" alt="chandanmallick19">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&theme=dark&title_color=00d5ff&text_color=ffffff&locale=en" alt="chandanmallick19" width="400">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" width="400"/>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" width="300"/>
 </p>      
 </details>
 
