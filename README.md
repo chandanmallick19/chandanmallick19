@@ -165,8 +165,8 @@ As a Beta Microsoft Learn Student Ambassador, I'm committed to empowering learne
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmallick19&show_icons=true&theme=dark&title_color=00d5ff&text_color=ffffff&locale=en" alt="chandanmallick19" width="300" height="150">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmallick19&theme=dark" alt="chandanmallick19" width="350" height="150">
 </p>      
-</details>
 
-      ![Snake animation](https://raw.githubusercontent.com/chandanmallick19/chandanmallick19/output/github-contribution-grid-snake-dark.svg)
+      <img align="center" src="https://raw.githubusercontent.com/chandanmallick19/chandanmallick19/output/github-contribution-grid-snake-dark.svg">
+</details>
 </body>
 </html>
